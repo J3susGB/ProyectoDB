@@ -30,7 +30,8 @@ ProyectoDB/
 ├── README.md
 ├── docker-compose.yml
 └── documentación/
-    ├── erd.png
+    ├── imagenes/
+        ├── Subir_imagen_clonar_repo.png
     └── pasos.md
 ```
 
