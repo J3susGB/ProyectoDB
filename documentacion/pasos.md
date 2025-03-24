@@ -86,10 +86,10 @@ imagen de doker composer 2 (pendiente subir)
 
 ### 8. Diseñar base de datos del proyecto y un Diagrama Entidad-Relación (ERD)
 
-#### 2. Proyecto elegido: Plataforma de Cursos Online.
-#### 3. Entidades: usuarios, cursos, lecciones, evaluaciones, inscripciones, certificados.
+#### - Proyecto elegido: Plataforma de Cursos Online.
+#### - Entidades: usuarios, cursos, lecciones, evaluaciones, inscripciones, certificados.
 
-![imagen](./imagenes/probar_conexion_dbeaver_2.png)
+![imagen](./imagenes/diagrama_ER.png)
 
 ➡️ Ver la documentación completa de la Base de Datos aquí:
 👉 ./base_de_datos.md
