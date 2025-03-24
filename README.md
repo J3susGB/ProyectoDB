@@ -203,7 +203,7 @@ En la carpeta `documentación/` encontrarás el archivo `pasos.md` que explica c
 
 ## Autor ✍️
 
-- **Tu Nombre**  
+- **Jesús Gómez Beltrán**  
 GitHub: [J3susGB](https://github.com/J3susGB)
 
 ---
