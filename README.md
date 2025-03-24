@@ -7,7 +7,7 @@
 ## Descripción 📄
 
 Este es un proyecto de práctica para aprender a gestionar un repositorio en **GitHub**, trabajar con **Docker** para levantar un contenedor de **PostgreSQL**, y diseñar un **Diagrama Entidad-Relación (ERD)**.  
-La base de datos está pensada para una **Tienda de Ropa**, pero puedes adaptarla fácilmente a cualquier otro negocio o necesidad.
+La base de datos está pensada para una **plataforma de cursos online**, pero es fácilmente adaptable para otro negocio.
 
 ---
 
@@ -41,7 +41,7 @@ ProyectoDB/
 
 - Tener instalado **Docker** y **Docker Compose**.
 - Tener instalado **Git**.
-- Tener instalado un gestor de bases de datos como **DBeaver** (opcional pero recomendado).
+- Tener instalado un gestor de bases de datos como **DBeaver**.
 
 ---
 
