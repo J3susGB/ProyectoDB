@@ -86,26 +86,6 @@ imagen de doker composer 2 (pendiente subir)
 
 ### 8. Diseñar base de datos del proyecto y un Diagrama Entidad-Relación (ERD)
 
-#### 1. Crea tabla usuarios.
-Subir imagen tabla usuarios
-
-#### 2. Crea tabla cursos.
-Subir imagen tabla cursos
-``
-#### 3. Crea tabla lecciones.
-Subir imagen tabla lecciones
-
-#### 4. Crea tabla evaluaciones.
-Subir imagen tabla evaluaciones
-
-#### 5. Crea tabla inscripciones.
-Subir imagen tabla inscripciones
-
-#### 6. Crea tabla certificados.
-Subir imagen tabla certificados
-
-
-
 #### 2. Proyecto elegido: Plataforma de Cursos Online.
 #### 3. Entidades: usuarios, cursos, lecciones, evaluaciones, inscripciones, certificados.
 
@@ -118,8 +98,8 @@ Subir imagen tabla certificados
 9. Subir Cambios a GitHub
 - Fusiona la rama feature/database-setup con main:
 
-git checkout main
-git merge feature/database-setup
-git push
+    git checkout main
+    git merge feature/database-setup
+    git push
 
 - Imagen: ./imagenes/fusionar_ramas.png
