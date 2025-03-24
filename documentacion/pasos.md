@@ -98,8 +98,8 @@ imagen de doker composer 2 (pendiente subir)
 9. Subir Cambios a GitHub
 - Fusiona la rama feature/database-setup con main:
 
-    git checkout main
-    git merge feature/database-setup
-    git push
+        git checkout main
+        git merge feature/database-setup
+        git push
 
-- Imagen: ./imagenes/fusionar_ramas.png
+![imagen](./imagenes/fusion_rama.png)
