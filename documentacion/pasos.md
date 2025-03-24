@@ -92,7 +92,7 @@ imagen de doker composer 2 (pendiente subir)
 ![imagen](./imagenes/diagrama_ER.png)
 
 ➡️ Ver la documentación completa de la Base de Datos aquí:
-👉 ./base_de_datos.md
+ 👉 [📄 Documentación de la Base de Datos](BBDD.md)
 
 
 9. Subir Cambios a GitHub
